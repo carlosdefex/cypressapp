@@ -7,13 +7,6 @@ This project is created using Cypress to serve as a template for creating new pr
 
 Follow these steps to set up and run the tests in this project:
 
-1. **Install Cypress**:
-Install Cypress as a development dependency using npm:
-
-## Installation and Running Tests
-
-Follow these steps to set up and run the tests in this project:
-
 1. Clone the repo
     ```sh
     git clone https://github.com/cypress-io/cypress-realworld-app.git
